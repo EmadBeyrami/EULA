@@ -13,7 +13,7 @@ PLEASE READ THESE TERMS OF USE ("TERMS" OR "AGREEMENT") CAREFULLY BEFORE USING W
 By accessing, downloading, installing, or using Wournal ("App," "Application," "Service," or "Software"), you ("User," "you," or "your") agree to be legally bound by these Terms of Use and End User License Agreement. This Agreement is between you and the developer of Wournal ("Developer," "we," "us," or "our").
 
 This Agreement incorporates by reference:
-- Our Privacy Policy (available at https://wournal.app/privacy)
+- Our Privacy Policy (available at https://github.com/EmadBeyrami/EULA/blob/main/Wournal-Privacy.md)
 - Apple's Licensed Application End User License Agreement
 - Apple's App Store Terms of Service
 
