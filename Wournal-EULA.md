@@ -305,8 +305,8 @@ These Terms shall be governed by and construed in accordance with the laws of th
 
 For questions about these Terms, contact us at:
 
-**Email**: support@wournal.app
-**Website**: https://wournal.app
+**Email**: emad@beyrami.dev
+**Website**: https://beyrami.dev
 
 ---
 
