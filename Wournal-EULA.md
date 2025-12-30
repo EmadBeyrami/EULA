@@ -259,7 +259,7 @@ Upon termination:
 
 ### 11.1 Informal Resolution
 
-Before filing any legal claim, you agree to attempt informal resolution by contacting us at support@wournal.app.
+Before filing any legal claim, you agree to attempt informal resolution by contacting us at emad@beyrami.dev.
 
 ### 11.2 Binding Arbitration
 
