@@ -180,8 +180,8 @@ Your continued use of the Service after changes are posted constitutes your acce
 
 If you have any questions about this Privacy Policy or our privacy practices, please contact us at:
 
-**Email**: support@wournal.app
-**Website**: https://wournal.app
+**Email**: emad@beyrami.dev
+**Website**: https://beyrami.dev
 
 ---
 
